@@ -4,7 +4,7 @@ Hello there, my name is Carlos Daniel a brazilian scientist and biotechnology st
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie110001001109192912&show_icons=true&theme=cobalt) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danie110001001109192912&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8,roff&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danie110001001109192912&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8,roff&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=dark)
 
 ## Some of my favourite tools:
 
