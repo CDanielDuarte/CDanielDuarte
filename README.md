@@ -15,4 +15,3 @@ Hello there, my name is Carlos Daniel a brazilian scientist and biotechnology st
 ![Nextflow](https://api.iconify.design/file-icons:nextflow.svg?color=%2327ae60&width=30&height=30)
 
 
-![Snake animation](https://github.com/CDanielDuarte/CDanielDuarte/blob/output/github-contribution-grid-snake.svg)
