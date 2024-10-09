@@ -12,6 +12,6 @@ Hello there, my name is Carlos Daniel a brazilian scientist and biotechnology st
 ![R](https://api.iconify.design/logos:r-lang.svg?width=30&height=30')
 ![bash](https://api.iconify.design/logos:bash-icon.svg?width=30&height=30)
 ![Docker](https://api.iconify.design/logos:docker-icon.svg?width=30&height=30)
-
+![Nextflow](https://api.iconify.design/file-icons:nextflow.svg?color=%2327ae60&width=30&height=30)
 
 
