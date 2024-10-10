@@ -2,7 +2,8 @@
 
 Hello there, my name is Carlos Daniel a brazilian scientist and biotechnology student. My main interests are: Bioinformatics, precision medicine, data science in health care and medicine . You can also find me on  [linkedin](https://www.linkedin.com/in/carlos-daniel-moreira-duarte-b220381a7/).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDanielDuarte&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8,roff&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDanielDuarte&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDanielDuarte&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDanielDuarte&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8,roff&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=dark) 
 
 
 <picture>
