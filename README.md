@@ -5,14 +5,11 @@ Hello there, my name is Carlos Daniel a brazilian scientist and biotechnology st
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDanielDuarte&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDanielDuarte&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8,roff&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=dark) 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ## Some of my favourite tools:
 
