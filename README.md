@@ -14,4 +14,10 @@ Hello there, my name is Carlos Daniel a brazilian scientist and biotechnology st
 ![Docker](https://api.iconify.design/logos:docker-icon.svg?width=30&height=30)
 ![Nextflow](https://api.iconify.design/file-icons:nextflow.svg?color=%2327ae60&width=30&height=30)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
